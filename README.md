@@ -369,5 +369,4 @@ For support and questions:
 
 ---
 
-**Built with ❤️ using Python, Flask, Twilio, OpenAI, and Zoho CRM**
 
